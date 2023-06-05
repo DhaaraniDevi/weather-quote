@@ -22,3 +22,5 @@ const options = {
     }
     
 }
+const backgroundSlice=createSlice(options);
+export default backgroundSlice;
